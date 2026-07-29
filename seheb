@@ -1,0 +1,7 @@
+cd /workspace/commando-ashraf
+git init
+git add .
+git commit -m "Commando Ashraf"
+git branch -M main
+git remote add origin https://github.com/USERNAME/commando-ashraf.git
+git push -u origin main
