@@ -1,7 +1,7 @@
 cd /workspace/commando-ashraf
 git init
 git add .
-git commit -m "Commando Ashraf"
+git commit -m "Updated prices: Recrue 300DH, Elite 500DH, Total War 600DH"
 git branch -M main
-git remote add origin https://github.com/USERNAME/commando-ashraf.git
+git remote add origin https://github.com/ashrafseheb-commando/commando-ashraf.git
 git push -u origin main
